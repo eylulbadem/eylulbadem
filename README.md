@@ -14,9 +14,9 @@
 >
   <a
     class='LI-simple-link'
-    href='https://in.linkedin.com/in/manavoza7?trk=profile-badge'
+    href='www.linkedin.com/in/eylül-badem-a079151b8'
   >
-    Manav Oza
+    Eylül Badem
   </a>
 </div>
 
@@ -26,7 +26,6 @@
   async
   defer
 ></script>
-www.linkedin.com/in/eylül-badem-a079151b8
 
 <!---
 eylulbadem/eylulbadem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
