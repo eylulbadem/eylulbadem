@@ -55,10 +55,15 @@ I’m currently studying Computer Science at Bilkent University. </p>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushi-droid&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
 
-<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=aayushi-droid&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 <h1 align="left"> You Can Reach Me Via </h1>
+
+<p float="left">
+ <a href="https://medium.com/@eylul.badem">
+<img alt="choubari" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw=w480-h960-rw" width="40">
+ </a>
+</p>
+
 - 📝 I sometimes write things on [My Medium Profile](https://medium.com/@eylul.badem)
 
