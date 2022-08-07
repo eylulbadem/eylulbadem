@@ -60,10 +60,15 @@ I’m currently studying Computer Science at Bilkent University. </p>
 <h1 align="left"> You Can Reach Me Via </h1>
 
 <p float="left">
+  <a href="https://www.linkedin.com/in/eyl%C3%BCl-badem-a079151b8/">
+<img alt="choubari" src="[https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw=w480-h960-rw](https://cdn-icons-png.flaticon.com/512/174/174857.png)" width="40">
+ </a>
  <a href="https://medium.com/@eylul.badem">
 <img alt="choubari" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw=w480-h960-rw" width="40">
  </a>
+ <a href="https://outlook.live.com/owa/">
+<img alt="choubari" src="[https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw=w480-h960-r](https://marka-logo.com/wp-content/uploads/2021/02/Outlook-Logo.png)" width="40">
+ </a>
 </p>
 
-- 📝 I sometimes write things on [My Medium Profile](https://medium.com/@eylul.badem)
 
