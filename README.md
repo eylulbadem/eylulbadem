@@ -39,7 +39,7 @@ I’m currently studying Computer Science at Bilkent University. </p>
 
 <br>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=eylulbadem&theme=solarized-light&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=eylulbadem&theme=discord_old_blurple&show_icons=true&count_private=true)
 <!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=eylulbadem&theme=solarized-light) -->
 
 
