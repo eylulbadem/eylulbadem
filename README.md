@@ -3,10 +3,9 @@
 I’m interested in neuroscience, ML, DL and AI.
 I’m currently studying Computer Science at Bilkent University. </p>
 <p align="center"> I’m looking to collaborate on anything, ✨ eager to learn new things ✨ </p>
-<h1 align="center"> Languages & Tools </h1>
+<p align="center"></p>
+<h1 align="left"> Languages & Tools </h1>
 
-
-### **Languages and Technologies:**
 
 <p float="left">
  <a href="https://www.java.com/">
