@@ -38,9 +38,8 @@ I’m currently studying Computer Science at Bilkent University. </p>
 </p>
 
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushi-droid&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=eylulbadem&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=eylulbadem&theme=solarized-light&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=eylulbadem&layout=compact)
 
 <h1 align="left"> You Can Reach Me Via </h1>
