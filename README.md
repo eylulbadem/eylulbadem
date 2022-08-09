@@ -39,16 +39,16 @@ I’m currently studying Computer Science at Bilkent University. </p>
 <img alt="choubari" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" width="40">
  </a>
   <a href="https://www.jetbrains.com/clion/">
-<img alt="choubari" src="https://seeklogo.com/images/C/clion-logo-7874C69D7F-seeklogo.com.png" width="40">
+<img alt="choubari" src="choubari" src="https://seeklogo.com/images/C/clion-logo-7874C69D7F-seeklogo.com.png" width="40">
   </a>
  <a href="https://www.postman.com/">
-<img alt="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="40">
+<img alt="choubari" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="40">
   </a>
   <a href="https://www.docker.com/">
-<img alt="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="40">
+<img alt="choubari" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="40">
   </a>
   <a href="https://www.jetbrains.com/datagrip/">
-<img alt="https://seeklogo.com/images/D/datagrip-logo-295CA63255-seeklogo.com.png" width="40">
+<img alt="choubari" src="https://seeklogo.com/images/D/datagrip-logo-295CA63255-seeklogo.com.png" width="40">
   </a>
  <a href="https://code.visualstudio.com/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
