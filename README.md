@@ -14,6 +14,9 @@ I’m currently studying Computer Science at Bilkent University. </p>
  <a href="https://www.python.org/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/p3jo.png" width="40">
  </a>
+  <a href="https://www.jetbrains.com/clion/promo/?source=google&medium=cpc&campaign=11962984501&term=c%20cpp&gclid=CjwKCAjwi8iXBhBeEiwAKbUofSDwDH3gy06oGqHoUyl8YYSUR3MwT2nSJZxSJcsY7Q4eKt7wvWwE8BoCSgwQAvD_BwE">
+<img alt="choubari" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="40">
+ </a>
  <a href="https://en.wikipedia.org/wiki/HTML">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40">
  </a>
@@ -31,6 +34,12 @@ I’m currently studying Computer Science at Bilkent University. </p>
   </a>
  <a href="https://git-scm.com/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
+  </a>
+  <a href="https://www.jetbrains.com/idea/">
+<img alt="choubari" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" width="40">
+ </a>
+  <a href="https://www.jetbrains.com/clion/">
+<img alt="choubari" src="https://seeklogo.com/images/C/clion-logo-7874C69D7F-seeklogo.com.png" width="40">
   </a>
  <a href="https://code.visualstudio.com/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
