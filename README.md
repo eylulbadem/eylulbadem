@@ -29,12 +29,6 @@ I’m currently studying Computer Science at Bilkent University. </p>
    <a href="https://graphql.org/">
 <img alt="choubari" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" width="40">
   </a>
- <a href="https://reactjs.org/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/z392.png" width="40">
-  </a>
- <a href="https://nodejs.org/en/">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40">
-  </a>
  <a href="https://kotlinlang.org/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/g2sh.png" width="40">
   </a>
