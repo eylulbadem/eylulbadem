@@ -20,9 +20,6 @@ I’m currently studying Computer Science at Bilkent University. </p>
  <a href="https://en.wikipedia.org/wiki/HTML">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40">
  </a>
- <a href="https://en.wikipedia.org/wiki/JavaScript">
-<img alt="choubari" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40">
-  </a>
   <a href="https://www.mongodb.com/cloud/atlas/lp/try2?utm_source=google&utm_campaign=gs_emea_turkey_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624572&adgroup=115749712063&gclid=CjwKCAjwi8iXBhBeEiwAKbUofbtiquAMaK6m4w_Am4kKGMtrOkU4xA4UxxU4dwpCw4ptrpa1YJ-uMBoCmqkQAvD_BwE">
 <img alt="choubari" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" width="40">
   </a>
