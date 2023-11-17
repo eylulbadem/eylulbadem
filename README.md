@@ -1,9 +1,9 @@
-<h1 align="center"> Hello World </h1>
+<!-- <h1 align="center"> Hello World </h1>
 <p align="center">
 I’m interested in neuroscience, ML, DL and AI.
 I’m currently studying Computer Science at Bilkent University. </p>
 <p align="center"> Looking to collaborate on anything, eager to learn new things </p>
-<!-- <br>
+<br>
 <h1 align="left"> Languages & Tools </h1>
 <p float="left">
  <a href="https://www.java.com/">
