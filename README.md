@@ -1,12 +1,10 @@
-<h1 align="center"> Hello World 👋 </h1>
+<h1 align="center"> Hello World </h1>
 <p align="center">
 I’m interested in neuroscience, ML, DL and AI.
 I’m currently studying Computer Science at Bilkent University. </p>
-<p align="center"> Looking to collaborate on anything, ✨ eager to learn new things ✨ </p>
-<br>
+<p align="center"> Looking to collaborate on anything, eager to learn new things </p>
+<!-- <br>
 <h1 align="left"> Languages & Tools </h1>
-
-
 <p float="left">
  <a href="https://www.java.com/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
@@ -51,11 +49,9 @@ I’m currently studying Computer Science at Bilkent University. </p>
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
   </a>
 </p>
-
-<br>
+<br> -->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=eylulbadem&theme=discord_old_blurple&show_icons=true&count_private=true)
-<!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=eylulbadem&theme=solarized-light) -->
 
 
 <h1 align="left"> You Can Reach Me Via </h1>
